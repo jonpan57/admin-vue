@@ -1,10 +1,10 @@
 <template>
-  <div>主页</div>
+  <el-row class="row-bg" justify="center"></el-row>
 </template>
 
 <script>
 export default {
-  name: "Home",
+  name: "Login",
 };
 </script>
 
